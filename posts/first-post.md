@@ -1,12 +1,12 @@
 ---
-title: "My First Blog Post"
+title: "ej038b8vhu First Blog Post"
 slug: "my-first-post"
 date: "2026-10-27"
 cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
 excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
 ---
 
-## Welcome to My Blog
+## Welcome to My Blog - ej038b8vhu
 
 This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
 
