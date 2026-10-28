@@ -6,5 +6,13 @@
     "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
     "excerpt": "Welcome to my blog! This is a sample post to test the Carrd Blog template.",
     "path": "posts/first-post.md"
+  },
+  {
+    "title": "Welcome to My Blog",
+    "slug": "welcome-to-my-blog",
+    "date": "2026-10-01",
+    "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
+    "excerpt": "A simple welcome to this space for ideas, notes, and new discoveries.",
+    "path": "posts/welcome-to-my-blog.md"
   }
 ]
