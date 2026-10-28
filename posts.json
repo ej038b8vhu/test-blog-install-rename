@@ -8,6 +8,14 @@
     "path": "posts/first-post.md"
   },
   {
+    "title": "A Simple Weekend Reset",
+    "slug": "a-simple-weekend-reset",
+    "date": "2026-10-05",
+    "cover": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85",
+    "excerpt": "A few small tasks can help you start the next week with a clearer mind.",
+    "path": "posts/a-simple-weekend-reset.md"
+  },
+  {
     "title": "Building a Daily Writing Habit",
     "slug": "building-a-daily-writing-habit",
     "date": "2026-10-03",
