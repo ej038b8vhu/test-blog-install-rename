@@ -8,6 +8,14 @@
     "path": "posts/first-post.md"
   },
   {
+    "title": "Taking Better Project Notes",
+    "slug": "taking-better-project-notes",
+    "date": "2026-10-07",
+    "cover": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
+    "excerpt": "Clear notes make it easier to remember decisions and pick up where you left off.",
+    "path": "posts/taking-better-project-notes.md"
+  },
+  {
     "title": "A Simple Weekend Reset",
     "slug": "a-simple-weekend-reset",
     "date": "2026-10-05",
