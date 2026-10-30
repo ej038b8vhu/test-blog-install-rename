@@ -8,6 +8,14 @@
     "path": "posts/first-post.md"
   },
   {
+    "title": "test auto create repo!!",
+    "slug": "a-simple-weekend-reset",
+    "date": "2026-10-25",
+    "cover": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85",
+    "excerpt": "A few small tasks can help you start the next week with a clearer mind.",
+    "path": "posts/a-simple-weekend-reset.md"
+  },
+  {
     "title": "Organizing a Small Workspace",
     "slug": "organizing-a-small-workspace",
     "date": "2026-10-11",
@@ -30,14 +38,6 @@
     "cover": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
     "excerpt": "Clear notes make it easier to remember decisions and pick up where you left off.",
     "path": "posts/taking-better-project-notes.md"
-  },
-  {
-    "title": "test auto create repo",
-    "slug": "a-simple-weekend-reset",
-    "date": "2026-10-05",
-    "cover": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85",
-    "excerpt": "A few small tasks can help you start the next week with a clearer mind.",
-    "path": "posts/a-simple-weekend-reset.md"
   },
   {
     "title": "Building a Daily Writing Habit",
