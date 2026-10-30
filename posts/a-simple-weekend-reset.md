@@ -1,5 +1,5 @@
 ---
-title: "A Simple Weekend Reset"
+title: "test auto create repo"
 slug: "a-simple-weekend-reset"
 date: "2026-10-05"
 cover: "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85"
