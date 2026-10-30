@@ -6,6 +6,8 @@ cover: "https://images.unsplash.com/photo-1644088379091-d574269d422f"
 excerpt: "Small, repeatable steps can make writing feel easier and more consistent."
 ---
 
+Litora primis fringilla commodo ornare
+
 # Building a Daily Writing Habit
 
 A writing habit does not need to start with a long session. Begin with ten minutes, a short journal entry, or a few notes about your day.
