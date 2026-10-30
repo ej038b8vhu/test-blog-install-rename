@@ -1,5 +1,5 @@
 ---
-title: "test - Auto build repo"
+title: "test - Auto build repo -- again"
 slug: "building-a-daily-writing-habit"
 date: "2026-10-03"
 cover: "https://images.unsplash.com/photo-1644088379091-d574269d422f"
