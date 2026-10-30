@@ -6,7 +6,7 @@ cover: "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85"
 excerpt: "A few small tasks can help you start the next week with a clearer mind."
 ---
 
-# Test - A Simple Weekend Reset
+# Test commit - A Simple Weekend Reset
 
 A weekend reset can be as simple as tidying your desk, reviewing the calendar, and choosing three priorities for the week ahead.
 
