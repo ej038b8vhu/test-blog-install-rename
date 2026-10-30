@@ -16,6 +16,14 @@
     "path": "posts/a-simple-weekend-reset.md"
   },
   {
+    "title": "Reflecting on the Month",
+    "slug": "reflecting-on-the-month",
+    "date": "2026-10-19",
+    "cover": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
+    "excerpt": "A monthly review helps you notice progress, learn from setbacks, and choose what to focus on next.",
+    "path": "posts/reflecting-on-the-month.md"
+  },
+  {
     "title": "Organizing a Small Workspace",
     "slug": "organizing-a-small-workspace",
     "date": "2026-10-11",
