@@ -40,14 +40,6 @@
     "path": "posts/taking-better-project-notes.md"
   },
   {
-    "title": "uto build repo",
-    "slug": "test-auto-build-repo",
-    "date": "2026-10-03",
-    "cover": "https://images.unsplash.com/photo-1644088379091-d574269d422f",
-    "excerpt": "Small, repeatable steps can make writing feel easier and more consistent.",
-    "path": "posts/building-a-daily-writing-habit.md"
-  },
-  {
     "title": "Welcome to My Blog",
     "slug": "welcome-to-my-blog",
     "date": "2026-10-01",
