@@ -1,5 +1,5 @@
 ---
-title: "clone test"
+title: "clone test - second"
 slug: "my-first-post"
 date: "2026-10-27"
 cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
