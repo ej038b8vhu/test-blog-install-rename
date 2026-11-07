@@ -5,9 +5,9 @@
     "date": "2026-10-27",
     "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
     "excerpt": "Welcome to my blog! This is a sample post to test the Carrd Blog template.",
-    "path": "posts/install-test.md",
+    "path": "posts/rename-test.md",
     "sha": "c1589218f95047c320957612ab66aa85208e868b",
-    "updated_at": "2026-11-05T18:55:35+08:00"
+    "updated_at": "2026-11-07T11:27:57+08:00"
   },
   {
     "title": "Reflecting on the Month",
@@ -17,7 +17,7 @@
     "excerpt": "A monthly review helps you notice progress, learn from setbacks, and choose what to focus on next.",
     "path": "posts/reflecting-on-the-month.md",
     "sha": "e997c7ca9e13ae527083e4dba8786380694e49ed",
-    "updated_at": "2026-11-05T18:55:35+08:00"
+    "updated_at": "2026-11-07T11:27:57+08:00"
   },
   {
     "title": "Organizing a Small Workspace",
@@ -27,7 +27,7 @@
     "excerpt": "Make a small desk easier to use by keeping the essentials within reach.",
     "path": "posts/organizing-a-small-workspace.md",
     "sha": "a8ae5c2b061eac7bf3bbeb7fbb74136a9efaf5d9",
-    "updated_at": "2026-11-05T18:55:35+08:00"
+    "updated_at": "2026-11-07T11:27:57+08:00"
   },
   {
     "title": "Taking Better Project Notes",
@@ -37,7 +37,7 @@
     "excerpt": "Clear notes make it easier to remember decisions and pick up where you left off.",
     "path": "posts/taking-better-project-notes.md",
     "sha": "9ad82e44f3076b85aae6e4be13b1784c89246ebd",
-    "updated_at": "2026-11-05T18:55:35+08:00"
+    "updated_at": "2026-11-07T11:27:57+08:00"
   },
   {
     "title": "Welcome to My Blog",
@@ -47,6 +47,6 @@
     "excerpt": "A simple welcome to this space for ideas, notes, and new discoveries.",
     "path": "posts/welcome-to-my-blog.md",
     "sha": "7894f8edd77be5f49e7fa98028db6c547427a1a0",
-    "updated_at": "2026-11-05T18:55:35+08:00"
+    "updated_at": "2026-11-07T11:27:57+08:00"
   }
 ]
